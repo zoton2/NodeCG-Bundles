@@ -1,0 +1,14 @@
+{
+    "name": "stream-alert-boxes",
+    "version": "1.0.0",
+    "nodecgDependency": "0.6.1",
+    "homepage": "http://www.zoton2.com/",
+    "authors": [
+        "zoton2"
+    ],
+    "description": "A bundle used to show alerts on my (zoton2) stream.",
+    "license": "MIT",
+	"extension": {
+		"path": "server.js"
+	}
+}

@@ -1,0 +1,25 @@
+body {
+	margin: 0;
+	padding: 0;
+}
+
+#info-box {
+	margin: 0 auto;
+	height: 30px;
+	width: auto;
+	top: -40px;
+	/*top: 55px;*/
+	position: relative;
+	background-color: rgba(0, 0, 0, 0.6);
+	padding: 5px 10px;
+	display: table;
+}
+
+#text-box {
+	font-size: 20px;
+	color: white;
+	font-family: Franklin Gothic;
+	display: table-cell;
+	vertical-align: middle;
+	text-align: left;
+}
