@@ -1,3 +1,5 @@
+## These bundles are *very* out of date, they are being left here as reference!
+
 # NodeCG-Bundles
 These are some NodeCG bundles I made, that I use on my Twitch stream to show information.
 
